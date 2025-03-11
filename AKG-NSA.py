@@ -1,6 +1,5 @@
 # @Author: Juan Du
 # @Time: 2024/10/02 11:22
-# @E-mail: dujuan860113@outlook.com
 
 import os
 import tensorflow as tf
